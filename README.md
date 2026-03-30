@@ -127,11 +127,7 @@ http://localhost/thecricket/index.html
 * Username: `user`
 * Password: `123`
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots here for better presentation)*
 
 ---
 
